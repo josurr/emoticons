@@ -30,6 +30,12 @@
                 "en": "candy"
             }
         },
+        ":corn": {
+            "file": "corn",
+            "alt": {
+                "en": "corn"
+            }
+        },
         ":coke": {
             "file": "coke",
             "alt": {
